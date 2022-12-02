@@ -19,11 +19,6 @@
       <student>Datsyk</student>
       <grade>5</grade>
     </gradeRecord>
-
-    <gradeRecord id="3">
-      <student>Hukava</student>
-      <grade>5</grade>
-    </gradeRecord>
   </gradeList>
 
 </gradeReport>
